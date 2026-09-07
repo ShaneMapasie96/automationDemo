@@ -12,7 +12,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrowserTest {
 
-	
 	@Test
 	public void getData()
 	{
